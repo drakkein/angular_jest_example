@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ExampleService Should match snapshot 1`] = `
+Array [
+  Object {
+    "foo": "bar",
+  },
+  Object {
+    "foo": "lorem",
+  },
+  Object {
+    "foo": "test",
+  },
+]
+`;
